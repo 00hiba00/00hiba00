@@ -24,7 +24,7 @@ I am a **Computer Science Engineering Student** at UM6P (Morocco) passionate abo
 
 ### 📫 Connect with me
 - 📍 **Location**: Rabat/Benguerir, Morocco
-- 🔗 **LinkedIn**: [Hiba El Bouanani]([https://www.linkedin.com/in/hiba-el-bouanani](https://www.linkedin.com/in/hiba-el-bouanani-489976386/))
+- 🔗 **LinkedIn**: [in/hiba-el-bouanani-489976386]
 
 ---
 *"Dedicated to continuous learning and building impactful tech solutions."* 
