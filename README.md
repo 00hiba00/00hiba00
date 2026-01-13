@@ -16,9 +16,9 @@ I am a **Computer Science Engineering Student** at UM6P (Morocco) passionate abo
 ---
 
 ### 📂 Featured Projects
-- **[CI/CD Pipeline for Spring Boot]**: Automated build, test, and quality analysis via Jenkins/SonarQube, containerized with Docker, and deployed on Kubernetes.
-- **[Automatic Timetable Generator]**: JavaFX application using Genetic Algorithms to optimize complex scheduling constraints.
-- **[Reservation Management API]**: Django REST Framework backend with full CRUD and secured user authentication.
+- **CI/CD Pipeline for Spring Boot**: Automated build, test, and quality analysis via Jenkins/SonarQube, containerized with Docker, and deployed on Kubernetes.
+- **Automatic Timetable Generator**: JavaFX application using Genetic Algorithms to optimize complex scheduling constraints.
+- **Reservation Management API**: Django REST Framework backend with full CRUD and secured user authentication.
 
 ---
 
