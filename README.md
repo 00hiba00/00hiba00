@@ -1,6 +1,6 @@
-# Hi there! I'm Hiba El Bouanani 👋 🇲🇦
+# Hi there! I'm Hiba El Bouanani 👋
 
-[cite_start]I am a **Computer Science Engineering Student** at UM6P (Morocco) passionate about building scalable software and exploring the world of Artificial Intelligence[cite: 4, 31].
+I am a **Computer Science Engineering Student** at UM6P (Morocco) passionate about building scalable software and exploring the world of Artificial Intelligence.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -16,21 +16,15 @@
 ---
 
 ### 📂 Featured Projects
-- [cite_start]**[CI/CD Pipeline for Spring Boot]**: Automated build, test, and quality analysis via Jenkins/SonarQube, containerized with Docker, and deployed on Kubernetes[cite: 9, 10, 11].
-- [cite_start]**[Automatic Timetable Generator]**: JavaFX application using Genetic Algorithms to optimize complex scheduling constraints[cite: 15, 16].
-- [cite_start]**[Reservation Management API]**: Django REST Framework backend with full CRUD and secured user authentication[cite: 12, 13, 14].
-
----
-
-### 📈 GitHub Stats
-![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=00hiba00&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00hiba00&layout=compact&theme=radical)
+- **[CI/CD Pipeline for Spring Boot]**: Automated build, test, and quality analysis via Jenkins/SonarQube, containerized with Docker, and deployed on Kubernetes.
+- **[Automatic Timetable Generator]**: JavaFX application using Genetic Algorithms to optimize complex scheduling constraints.
+- **[Reservation Management API]**: Django REST Framework backend with full CRUD and secured user authentication.
 
 ---
 
 ### 📫 Connect with me
-- [cite_start]📍 **Location**: Rabat/Benguerir, Morocco [cite: 6]
+- 📍 **Location**: Rabat/Benguerir, Morocco
 - 🔗 **LinkedIn**: [Hiba El Bouanani]([https://www.linkedin.com/in/hiba-el-bouanani](https://www.linkedin.com/in/hiba-el-bouanani-489976386/))
 
 ---
-[cite_start]*"Dedicated to continuous learning and building impactful tech solutions."* [cite: 4, 5]
+*"Dedicated to continuous learning and building impactful tech solutions."* 
